@@ -22,3 +22,5 @@ def chat_with_model(prompt):
 user_input = "Ceritakan saya tentang cuaca hari ini."
 response = chat_with_model(user_input)
 print(response)
+
+print("Ini dibuat dengan Open AI")
